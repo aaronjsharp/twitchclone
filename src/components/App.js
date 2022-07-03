@@ -7,7 +7,7 @@ import StreamList from './streams/StreamList';
 import StreamShow from './streams/StreamShow';
 import Header from './Header';
 // 194190248286-a4qc19s38855mdv0mnoqqodbkrrpfn73.apps.googleusercontent.com
-
+// npm install redux-form --legacy-peer-deps
 const App = () => {
   return (
     <div className='ui container'>
