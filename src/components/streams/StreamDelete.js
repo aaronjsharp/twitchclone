@@ -14,7 +14,7 @@ class StreamDelete extends React.Component {
    return (
       // React.Fragment
       <React.Fragment>
-        <button className="ui button negative">Delete</button>
+        <button className="ui button negative">Delete it</button>
         <button onClick={() => history.push('/')} className="ui button">Cancel</button>
       </React.Fragment>
     )
